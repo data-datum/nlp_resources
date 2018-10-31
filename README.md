@@ -23,7 +23,7 @@
 * Beyond bag of words: Using PyTextRank to find Phrases and Summarize text http://bit.ly/2SxNEj0
 * Beyond Word Embeddings Part 2- Word Vectors and NLP Modeling from BoW to BERT http://bit.ly/2SAkujx
 * Finding Similar Quora Questions with BOW, TFIDF and Xgboost http://bit.ly/2SyRBnN
-* 
+
 
 ### Twitter Sentiment Analysis Project
 * Another Twitter sentiment analysis with Python — Part 1 http://bit.ly/2zhVHI6
@@ -60,4 +60,4 @@
 * Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling https://arxiv.org/pdf/1703.04826.pdf
 * Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering https://arxiv.org/pdf/1606.09375.pdf
 * Deep Convolutional Networks on Graph-Structured Data http://bit.ly/2zkQ0Jc
-* 
+
