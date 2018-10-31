@@ -6,6 +6,14 @@
 * Cleaning and pre-processing textual data http://bit.ly/2SxwPVr
 * Text Data Preprocessing: A Walkthrough in Python http://bit.ly/2SAgyyX
 
+### Topic Modelling
+* Topic Modelling in Python with NLTK and Gensim http://bit.ly/2SAyda0
+* Topic Modeling and Latent Dirichlet Allocation (LDA) in Python http://bit.ly/2SDmPdB
+* Combing LDA and Word Embeddings for topic modeling http://bit.ly/2SBnjRs
+* Topic modelling with PLSA http://bit.ly/2Sy1xOh
+* NLP For Topic Modeling & Summarization Of Legal Documents http://bit.ly/2Sx3bzI
+* NLP: Extracting the main topics from your dataset using LDA in minutes http://bit.ly/2SyziPu
+
 ### Vectorizers
 * Hacking Scikit-Learn’s Vectorizers http://bit.ly/2SA9RNm
 * Mapping Word Embeddings with Word2vec http://bit.ly/2SCPhfF
