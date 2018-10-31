@@ -54,10 +54,10 @@
 ### MOOCs
 * Sequence Models Andrew Ng Course (video) http://bit.ly/2zfIEa5 
 * Natural Language Processing (video) http://bit.ly/2SAdFOQ
+* Natural Language Processing With Python and NLTK (video) http://bit.ly/2StmQ3D 
 
 ### arXiv Publications
 * Notes on Deep Learning for NLP http://bit.ly/2zmyhkG
 * Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling https://arxiv.org/pdf/1703.04826.pdf
 * Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering https://arxiv.org/pdf/1606.09375.pdf
 * Deep Convolutional Networks on Graph-Structured Data http://bit.ly/2zkQ0Jc
-
