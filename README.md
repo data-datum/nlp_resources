@@ -36,6 +36,8 @@
 * Another Twitter sentiment analysis with Python — Part 8 (Dimensionality reduction: Chi2, PCA) http://bit.ly/2zhXOM2
 * Another Twitter sentiment analysis with Python — Part 9 (Neural Networks with Tfidf vectors using Keras) http://bit.ly/2zhYyRk
 * Another Twitter sentiment analysis with Python — Part 10 (Neural Network with Doc2Vec/Word2Vec/GloVe) http://bit.ly/2zhgueK
+* Another Twitter sentiment analysis with Python — Part 11 (CNN + Word2Vec) http://bit.ly/2zhZOnw
+* Yet Another Twitter Sentiment Analysis Part 1 — tackling class imbalance http://bit.ly/2zi8nP9
 
 # Deep Learning
 * Deep Learning for NLP (video) http://bit.ly/2St1L9v slides http://bit.ly/2SwxPJH 
@@ -44,7 +46,15 @@
 * Modern Deep Learning Techniques Applied to Natural Language Processing http://bit.ly/2zh6Xoc
 * Deep Learning for NLP: PyTorch vs Tensorflow – Elvis Saravia – PyCon Taiwan 2018 (video) http://bit.ly/2zhdkYq
 * Introducing state of the art text classification with universal language models http://bit.ly/2zltFLY
-* Sequence Modelling and NLP With Deep Learning (Keras) 
+* Autoencoders and Word Embeddings http://bit.ly/2ziiwvj 
+
 ### University Courses
 * Deep Learning for NLP Stanford University (video) http://bit.ly/2zjzuJP
 * Deep Learning for NLP at Oxford with DeepMind (video) http://bit.ly/2zlsBaz
+### MOOCs
+* Sequence Models Andrew Ng Course (video) http://bit.ly/2zfIEa5 
+
+### arXiv Publications
+* Notes on Deep Learning for NLP http://bit.ly/2zmyhkG
+* Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling https://arxiv.org/pdf/1703.04826.pdf
+* Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering https://arxiv.org/pdf/1606.09375.pdf
