@@ -1,4 +1,4 @@
-Natural Language Processing - Resources
+# Natural Language Processing - Resources
 
 ## Data Cleaning and Preprocessing
 * Ultimate guide to deal with Text Data (using Python) – for Data Scientists & Engineers http://bit.ly/2SAeBTt
@@ -17,7 +17,7 @@ Natural Language Processing - Resources
 * Multi-Class Text Classification with Doc2Vec & Logistic Regression http://bit.ly/2SuNvwO
 * Duplicate question detection using Word2Vec, XGBoost and Autoencoders http://bit.ly/2SuQLs2
 
-# Bag-of-Words
+### Bag-of-Words
 * An Introduction to Bag-of-Words in NLP http://bit.ly/2Sy36f6
 * Text Processing 1 — Old Fashioned Methods (Bag of Words and TFxIDF) http://bit.ly/2SF0f4e
 * Beyond bag of words: Using PyTextRank to find Phrases and Summarize text http://bit.ly/2SxNEj0
@@ -25,7 +25,7 @@ Natural Language Processing - Resources
 * Finding Similar Quora Questions with BOW, TFIDF and Xgboost http://bit.ly/2SyRBnN
 * 
 
-# Twitter Sentiment Analysis Project
+### Twitter Sentiment Analysis Project
 * Another Twitter sentiment analysis with Python — Part 1 http://bit.ly/2zhVHI6
 * Another Twitter sentiment analysis with Python - Part 2 http://bit.ly/2zeaPGm
 * Another Twitter sentiment analysis with Python — Part 3 (Zipf’s Law, data visualisation) http://bit.ly/2zlu4O7
