@@ -57,12 +57,12 @@
 * Autoencoders and Word Embeddings http://bit.ly/2ziiwvj 
 
 ### University Courses
-* Deep Learning for NLP Stanford University (video) http://bit.ly/2zjzuJP
-* Deep Learning for NLP at Oxford with DeepMind (video) http://bit.ly/2zlsBaz
+* Deep Learning for NLP Stanford University [video] http://bit.ly/2zjzuJP [syllabus] https://stanford.io/2SE22GN
+* Deep Learning for NLP at Oxford with DeepMind [video] http://bit.ly/2zlsBaz [resources] http://bit.ly/2SH54Kb
 ### MOOCs
-* Sequence Models Andrew Ng Course (video) http://bit.ly/2zfIEa5 
-* Natural Language Processing (video) http://bit.ly/2SAdFOQ
-* Natural Language Processing With Python and NLTK (video) http://bit.ly/2StmQ3D 
+* Sequence Models Andrew Ng Course [video] http://bit.ly/2zfIEa5 
+* Natural Language Processing [video] http://bit.ly/2SAdFOQ
+* Natural Language Processing With Python and NLTK [video] http://bit.ly/2StmQ3D 
 
 ### arXiv Publications
 * Notes on Deep Learning for NLP http://bit.ly/2zmyhkG
