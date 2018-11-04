@@ -62,9 +62,11 @@
 * Deep Learning for NLP Stanford University [video] http://bit.ly/2zjzuJP [syllabus] https://stanford.io/2SE22GN
 * Deep Learning for NLP at Oxford with DeepMind [video] http://bit.ly/2zlsBaz [resources] http://bit.ly/2SH54Kb
 ### MOOCs
-* Sequence Models Andrew Ng Course [video] http://bit.ly/2zfIEa5 
-* Natural Language Processing [video] http://bit.ly/2SAdFOQ
+#### Foundations
 * Natural Language Processing With Python and NLTK [video] http://bit.ly/2StmQ3D 
+* Natural Language Processing [video] http://bit.ly/2SAdFOQ
+#### Recurrent Neural Networks - Deep Learning Specialization
+* Sequence Models Andrew Ng Course [video] http://bit.ly/2zfIEa5 
 
 ### arXiv Publications
 * Notes on Deep Learning for NLP http://bit.ly/2zmyhkG
