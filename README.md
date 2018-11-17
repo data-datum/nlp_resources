@@ -51,12 +51,16 @@
 * Deep Learning for NLP (video) http://bit.ly/2St1L9v slides http://bit.ly/2SwxPJH 
 * Deep Learning for NLP: An Overview of Recent Trends http://bit.ly/2SF4iNY
 * A Light Introduction to Transfer Learning for NLP http://bit.ly/2SxzFd7
+* Deep Learning, NLP, and Representations http://bit.ly/2QQSZAS
 * Modern Deep Learning Techniques Applied to Natural Language Processing http://bit.ly/2zh6Xoc
 * Deep Learning for NLP: PyTorch vs Tensorflow – Elvis Saravia – PyCon Taiwan 2018 (video) http://bit.ly/2zhdkYq
 * Introducing state of the art text classification with universal language models http://bit.ly/2zltFLY
 * Autoencoders and Word Embeddings http://bit.ly/2ziiwvj 
 ### Transfer Learning 
 * NLP's ImageNet moment has arrived http://bit.ly/2zoLhpZ
+
+### Gaussian Mixture Models
+* Gaussian mixture models http://bit.ly/2QQTbjA
 
 ### University Courses
 * Deep Learning for NLP Stanford University [video] http://bit.ly/2zjzuJP [syllabus] https://stanford.io/2SE22GN
