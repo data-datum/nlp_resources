@@ -67,6 +67,7 @@
 * Deep Learning for NLP at Oxford with DeepMind [video] http://bit.ly/2zlsBaz [resources] http://bit.ly/2SH54Kb
 ### MOOCs
 #### Foundations
+* Natural Language Processing _Intel AI Academy_ https://intel.ly/2TiRnRY
 * Natural Language Processing With Python and NLTK [video] http://bit.ly/2StmQ3D 
 * Natural Language Processing [video] http://bit.ly/2SAdFOQ
 #### Recurrent Neural Networks - Deep Learning Specialization
