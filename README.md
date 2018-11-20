@@ -1,5 +1,16 @@
 # Natural Language Processing - Resources
 
+## Basic Definitions
+
+* Named Entity Recognition
+* Part of Speech 
+* Constituency Parser
+* Dependency Parser
+* Lemmatization and Stemming
+* Coreference Resolution
+* Stop words
+* Tokenization
+
 ## Data Cleaning and Preprocessing
 * Ultimate guide to deal with Text Data (using Python) – for Data Scientists & Engineers http://bit.ly/2SAeBTt
 * NLP: Text Data Cleaning and Preprocessing http://bit.ly/2SCeZR4+
