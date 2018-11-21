@@ -4,12 +4,16 @@
 
 * Named Entity Recognition
 * Part of Speech 
-* Constituency Parser
-* Dependency Parser
+* Syntactic Parser
+* * Constituency Parser
+* * Dependency Parser
+* Semantic Parser
+* * Semantic Role Labeling
 * Lemmatization and Stemming
 * Coreference Resolution
 * Stop words
 * Tokenization
+
 
 ## Data Cleaning and Preprocessing
 * Ultimate guide to deal with Text Data (using Python) – for Data Scientists & Engineers http://bit.ly/2SAeBTt
@@ -38,7 +42,9 @@
 
 ### Bag-of-Words
 * An Introduction to Bag-of-Words in NLP http://bit.ly/2Sy36f6
-* Text Processing 1 — Old Fashioned Methods (Bag of Words and TFxIDF) http://bit.ly/2SF0f4e
+* Text Processing 1 — Old Fashioned Methods (Bag of Words and 
+
+xIDF) http://bit.ly/2SF0f4e
 * Beyond bag of words: Using PyTextRank to find Phrases and Summarize text http://bit.ly/2SxNEj0
 * Beyond Word Embeddings Part 2- Word Vectors and NLP Modeling from BoW to BERT http://bit.ly/2SAkujx
 * Finding Similar Quora Questions with BOW, TFIDF and Xgboost http://bit.ly/2SyRBnN
