@@ -89,3 +89,4 @@
 * Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling https://arxiv.org/pdf/1703.04826.pdf
 * Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering https://arxiv.org/pdf/1606.09375.pdf
 * Deep Convolutional Networks on Graph-Structured Data http://bit.ly/2zkQ0Jc
+
