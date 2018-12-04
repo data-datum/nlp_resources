@@ -75,6 +75,7 @@ xIDF) http://bit.ly/2SF0f4e
 * Autoencoders and Word Embeddings http://bit.ly/2ziiwvj 
 ### Transfer Learning 
 * NLP's ImageNet moment has arrived http://bit.ly/2zoLhpZ
+* How NLP Cracked Transfer Learning https://thegradient.pub/nlp-imagenet/
 
 ### Gaussian Mixture Models
 * Gaussian mixture models http://bit.ly/2QQTbjA
